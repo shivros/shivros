@@ -11,6 +11,17 @@
 
 <br>
 
+## Live Dev Metrics
+
+### Git Stats
+![Git Stats](https://whimsical-pika-800.convex.site/api/svg/git-stats)
+
+### AI Usage
+![AI Usage](https://whimsical-pika-800.convex.site/api/svg/ai-usage)
+
+### Languages
+![Languages](https://whimsical-pika-800.convex.site/api/svg/languages)
+
 <p align="center">
     <img
         alt="GitHub Stats"
